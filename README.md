@@ -18,7 +18,7 @@ CTRL + LMB - Translate
 * 8 - Medium  
 * 7 - Low  
 
-To compile: `make`
+To compile: `make`  
 This assumes that there is a pic directory one level above
 
 To run: `./heightField [HEIGHTMAPIMAGEFILENAME]`
